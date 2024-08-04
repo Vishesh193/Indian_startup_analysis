@@ -28,7 +28,7 @@ Features
 **Installation**
 
 1. Clone the repository:
-   git clone https://github.com/Vishesh193/startup-funding-dashboard.git
+   git clone https://github.com/Vishesh193/Indian_startup_analysis
    
 2. Navigate to the project directory:
    cd startup-funding-dashboard
@@ -37,10 +37,7 @@ Features
 
 **Usage**
 1. Place your cleaned startup data in a file named `startup_cleaned.csv`.
-2. Run the Streamlit application:
-   ```bash
-   streamlit run app.py
-   ```
+2. Run the Streamlit application: streamlit run app.py
 3. Open the provided local URL in your browser to interact with the dashboard.
 
 **Contributing**
